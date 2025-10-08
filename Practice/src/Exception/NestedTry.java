@@ -1,4 +1,4 @@
-package com.tnsif.exception;
+package Exception;
 
 public class NestedTry {
 
@@ -17,4 +17,5 @@ public class NestedTry {
 		}
 	}
 }
+
 
